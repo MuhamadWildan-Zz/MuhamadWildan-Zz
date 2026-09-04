@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&pause=1000&color=CC785C&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Wildan+%F0%9F%91%8B)
 
-Mahasiswa **UNNES** [Universitas Negeri Semarang](https://www.unnes.ac.id/), jurusan **Teknik Informatika **, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
+Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
 
-*Student at **UNNES** [Universitas Negeri Semarang](https://www.unnes.ac.id/), majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
+*Student at **U[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
 
 </div>
 
