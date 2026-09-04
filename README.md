@@ -22,7 +22,7 @@ Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan *
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadWildan-Zz&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Wildan's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadWildan-Zz&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="XXXX's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXX&layout=compact&title_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Top Languages" height="165"/>
 </p>
 
