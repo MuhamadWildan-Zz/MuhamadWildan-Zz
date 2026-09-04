@@ -1,12 +1,12 @@
-<div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&pause=1000&color=CC785C&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Wildan+%F0%9F%91%8B)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&pause=1000&color=CC785C&center=false&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Wildan)
+
 
 Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
 
 *Student at **[Semarang State University](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
 
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C&height=3&section=header" width="100%"/>
 
