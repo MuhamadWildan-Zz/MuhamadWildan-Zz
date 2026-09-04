@@ -3,9 +3,9 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&pause=1000&color=CC785C&center=false&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Wildan)
 
 
-Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
+Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan.
 
-*Student at **[Semarang State University](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
+*Student at **[Semarang State University](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here I document everything about my learning process—from my lecture assignments, to coding exercises, to side projects.*
 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C&height=3&section=header" width="100%"/>
@@ -16,7 +16,7 @@ Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan *
 - Mathematics
 - Physics
 
-### 🛠️ Tech Stack
+### Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
