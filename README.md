@@ -4,26 +4,28 @@
 
 Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
 
-*Student at **U[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
+*Student at **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C&height=3&section=header" width="100%"/>
 
 
-### 🌱 Currently Learning
-- Machine Learning (fundamentals)
+### Currently Learning
+- Machine Learning
+- Mathematics
+- Physics
 
 ### 🛠️ Tech Stack
-![Python](https://img.shields.io/badge/-Python-CC785C?style=flat-square&logo=python&logoColor=F0EEE6)
-![C++](https://img.shields.io/badge/-C%2B%2B-B36A4E?style=flat-square&logo=c%2B%2B&logoColor=F0EEE6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-D9A582?style=flat-square&logo=javascript&logoColor=3D3929)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MuhamadWildan-Zz&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="MuhamadWildan-Zz's GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MuhamadWildan-Zz&layout=compact&title_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=MuhamadWildan-Zz&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="MuhamadWildan-Zz's GitHub stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=MuhamadWildan-Zz&layout=compact&title_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Top Languages" height="165"/>
 </p>
 
 <p align="left">
@@ -31,11 +33,11 @@ Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan *
 </p>
 
 
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-CC785C?style=flat-square&logo=Linkedin&logoColor=F0EEE6)](https://linkedin.com/in/muhamadwildanramdhani/)
-[![Instagram](https://img.shields.io/badge/-Instagram-D9A582?style=flat-square&logo=instagram&logoColor=3D3929)](https://instagram.com/wildansingkatnya)
-[![Email](https://img.shields.io/badge/-Email-B36A4E?style=flat-square&logo=gmail&logoColor=F0EEE6)](mailto:wildanforcode@gmail.com)
+### Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/muhamadwildanramdhani/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/wildansingkatnya)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:wildanforcode@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C&height=3&section=footer" width="100%"/>
 
-<p align="center"><i>Terus belajar, terus berkembang 🚀</i></p>
+<p align="center"><i>Terus belajar, terus berkembang </i></p>
