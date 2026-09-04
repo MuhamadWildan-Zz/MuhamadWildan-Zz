@@ -4,7 +4,7 @@
 
 Mahasiswa **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
 
-*Student at **[Universitas Negeri Semarang](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
+*Student at **[Semarang State University](https://www.unnes.ac.id/)**, majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
 
 </div>
 
