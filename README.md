@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hi, I'm Wildan 👋
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Merriweather&weight=600&size=28&pause=1000&color=CC785C&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Wildan+%F0%9F%91%8B)
 
-Mahasiswa di**XXXX** [Universitas Negeri Semarang](https://www.unnes.ac.id/), jurusan **Teknik Informatika**, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
+Mahasiswa **UNNES** [Universitas Negeri Semarang](https://www.unnes.ac.id/), jurusan **Teknik Informatika **, Di sini saya mendokumentasikan segala hal tentang proses belajar saya—mulai dari tugas perkuliahan, latihan coding, sampai proyek sampingan. Still learning, building, and breaking things!.
 
-*Student at **XXXX** [Universitas Negeri Semarang](https://www.unnes.ac.id/), majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
+*Student at **UNNES** [Universitas Negeri Semarang](https://www.unnes.ac.id/), majoring in **Informatics Engineering**, Here, I document everything related to my learning process—from coursework and coding exercises to side projects.*
 
 </div>
 
@@ -22,7 +22,7 @@ Mahasiswa di**XXXX** [Universitas Negeri Semarang](https://www.unnes.ac.id/), ju
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=XXXX&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="XXXX's GitHub stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=XXXX&show_icons=true&hide_title=false&title_color=CC785C&icon_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Wildan's GitHub stats" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XXXX&layout=compact&title_color=CC785C&text_color=3D3929&bg_color=F0EEE6&border_color=D9A582" alt="Top Languages" height="165"/>
 </p>
 
@@ -32,7 +32,7 @@ Mahasiswa di**XXXX** [Universitas Negeri Semarang](https://www.unnes.ac.id/), ju
 
 ### 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-CC785C?style=flat-square&logo=Linkedin&logoColor=F0EEE6)](https://linkedin.com/in/muhamadwildanramdhani/)
-[![Instagram](https://img.shields.io/badge/-Instagram-D9A582?style=flat-square&logo=instagram&logoColor=3D3929)](https://instagram.com/wildansingkatnya/)
+[![Instagram](https://img.shields.io/badge/-Instagram-D9A582?style=flat-square&logo=instagram&logoColor=3D3929)](https://instagram.com/wildansingkatnya)
 [![Email](https://img.shields.io/badge/-Email-B36A4E?style=flat-square&logo=gmail&logoColor=F0EEE6)](mailto:wildanforcode@gmail.com)
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=CC785C&height=3&section=footer" width="100%"/>
